@@ -6,3 +6,4 @@ ticket: real business context, real starter code, and the change that merged.
 Built while working through the Residency program.
 
 ## Work log
+- Events table is silently corrupting downstream reports (clean-events)

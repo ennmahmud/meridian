@@ -1,0 +1,13 @@
+event_id,user_id,event_type,event_date
+1,u01,click,2026-07-01
+2,u02,view,2026-07-01
+2,u02,view,2026-07-01
+3,u03,click,2026-07-02
+4,u01,,2026-07-02
+5,u04,purchase,2026-07-03
+5,u04,purchase,2026-07-03
+6,u05,view,2026-07-03
+7,u02,click,2026-07-04
+8,u03,,2026-07-04
+9,u01,view,2026-07-05
+10,u05,purchase,2026-07-05
