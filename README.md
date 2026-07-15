@@ -7,3 +7,4 @@ Built while working through the Residency program.
 
 ## Work log
 - Events table is silently corrupting downstream reports (clean-events)
+- Welcome aboard — fix the status page banner (day1-fix-the-banner)
