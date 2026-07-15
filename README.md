@@ -9,3 +9,4 @@ Built while working through the Residency program.
 - Events table is silently corrupting downstream reports (clean-events)
 - Welcome aboard — fix the status page banner (day1-fix-the-banner)
 - Date parsing broke in the daily report — again (extract-shared-parser)
+- Health monitor crashes on flaky probes (retry-health-check)
